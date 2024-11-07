@@ -231,3 +231,19 @@ if "processed_image" in st.session_state:
 if "processed_video_path" in st.session_state:
     with open(st.session_state.processed_video_path, "rb") as video_file:
         st.download_button("Download Processed Video", video_file, file_name="processed_video.mp4")
+
+# About the Author section
+st.header("About the Author")
+st.write(
+    """
+    Developed by **Fatih Karahan**.
+    
+    If you have any questions or feedback about this app, feel free to reach out to me at:
+    
+    📧 [YourEmail@example.com](mailto:YourEmail@example.com)
+    
+    Connect with me on:
+    - [GitHub](https://github.com/Fatih0234)
+    - [LinkedIn](https://www.linkedin.com/in/fatih-karahan-717931193/)
+    """
+)
