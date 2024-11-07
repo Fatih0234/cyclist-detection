@@ -240,7 +240,7 @@ st.write(
     
     If you have any questions or feedback about this app, feel free to reach out to me at:
     
-    📧 [YourEmail@example.com](mailto:YourEmail@example.com)
+    📧 [sekanti02@gmail.com](mailto:sekanti02@gmail.com)
     
     Connect with me on:
     - [GitHub](https://github.com/Fatih0234)
